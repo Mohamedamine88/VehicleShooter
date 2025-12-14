@@ -1,0 +1,10 @@
+{
+  "include": [
+    "*.js",
+    "libraries/p5.min.js"
+  ],
+  "compilerOptions": {
+    "checkJs": true,
+    "allowJs": true
+  }
+}
